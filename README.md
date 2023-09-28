@@ -1,3 +1,3 @@
 # nodeJs-MongoDB-Nginx-Docker-Tutorial
 
-Nodejs Mongodb App Credit: https://github.com/bradtraversy/docker-node-mongo
+https://www.youtube.com/watch?v=4zUQEkDdNR0&list=PLVx1qovxj-ankJOMQslRT9hckrfcGQTpp&index=2
