@@ -10,7 +10,7 @@ app.use(express.urlencoded({ extended: false }));
 // Connect to MongoDB
 mongoose
   .connect(
-    'mongodb://mongo:27017/docker-node-mongo',
+    'mongodb://mongo:27017/docker-node-mongo', // Note that in mongo:27017, mongo is what we must call our container name
     { useNewUrlParser: true }
   )
   .then(() => console.log('MongoDB Connected'))
